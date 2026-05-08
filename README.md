@@ -26,6 +26,8 @@
 - JavaScript
 - HTML
 - CSS
+- Node.JS
+- Mongo DB
 
 ### Libraries & Tools
 - SFML
@@ -52,18 +54,6 @@ A responsive ToDo List app with dark mode and localStorage support.
 
 ### 🧠 Simon Says Game
 A memory-based web game inspired by the classic Simon Says game.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman-Sahoo&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman-Sahoo&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
